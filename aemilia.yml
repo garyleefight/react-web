@@ -14,7 +14,7 @@ build:
         files:
             - '**/*'
         discardPaths: true
-        baseDirectory: /
+        baseDirectory: build
     cache:
         paths:
             - node_modules
